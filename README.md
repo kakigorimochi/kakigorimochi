@@ -15,10 +15,10 @@ Here are some ideas to get you started:
   
 ![Profile views](https://komarev.com/ghpvc/?username=kakigorimochi&label=Profile%20views&style=for-the-badge&abbreviated=true&color=fb8c00) 
 [![Website](https://img.shields.io/badge/website-futuregadget--apt.ph-%234285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://futuregadget-apt.ph)
-
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](https://futuregadget-apt.ph/404)
 
 ## 👀🛰️ Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%230866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/kakigorimochi) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/kakigorimochi_) [![Email](https://img.shields.io/badge/Gmail-%23005FF9.svg?style=for-the-badge&logo=Gmail&logoColor=white)](https://futuregadget-apt.ph/404)
+[![Facebook](https://img.shields.io/badge/Facebook-%230866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/kakigorimochi) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/kakigorimochi_)
 
 <br />
 
