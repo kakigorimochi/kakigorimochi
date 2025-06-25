@@ -50,29 +50,24 @@ Here are some ideas to get you started:
 <br />
 
 ## ⛺🙌 GitHub Statistics
-<!--
-![kakigorimochi's Stats](https://github-readme-stats.vercel.app/api?username=kakigorimochi&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=true&custom_title=kakigorimochi's%20GitHub%20Stats&show=prs_merged,prs_merged_percentage&count_private=true&include_all_commits=true) <br />
-![kakigorimochi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kakigorimochi&theme=ayu-mirage&mode=weekly&hide_border=false&fire=FB8C00&ring=FB8C00) <br />
-![kakigorimochi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kakigorimochi&theme=ayu-mirage&layout=compact&langs_count=10&show_icons=true&hide_border=false&count_private=true&include_all_commits=true) <br />
--->
 <p>
 <a>
-  <img height="250" align="center" alt ="kakigorimochi's Stats" src="https://github-readme-stats.vercel.app/api?username=kakigorimochi&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=true&custom_title=kakigorimochi's%20GitHub%20Stats&show=prs_merged,prs_merged_percentage&count_private=true&include_all_commits=true)" />
+  <img height="250" align="center" alt ="kakigorimochi's Stats" src="https://github-readme-stats.vercel.app/api?username=kakigorimochi&theme=ayu-mirage&show_icons=true&hide_border=false&custom_title=kakigorimochi's%20GitHub%20Stats&include_all_commits=true&show=prs_merged,prs_merged_percentage" />
 </a>
 <a>
-  <img height="250" align="center" alt ="kakigorimochi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakigorimochi&theme=ayu-mirage&layout=compact&langs_count=10&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" />
+  <img height="250" align="center" alt ="kakigorimochi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakigorimochi&theme=ayu-mirage&layout=compact&langs_count=10&show_icons=true&hide_border=false&include_all_commits=true" />
 </a>
 </p>
 
 <p>
 <a>
- <img width="56.6%" align="center" alt ="kakigorimochi's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kakigorimochi&theme=ayu-mirage&mode=weekly&hide_border=false&fire=FB8C00&ring=FB8C00" />
+ <img width="56.6%" align="center" alt ="kakigorimochi's Streak" src="https://nirzak-streak-stats.vercel.app/?user=kakigorimochi&theme=ayu-mirage&mode=weekly&hide_border=false&fire=FB8C00&ring=FB8C00" />
 </a>
 </p>
 
 #### Top Contributed Repository
 <a>
-  <img width="56.6%" align="center" alt ="kakigorimochi's Top Contributed Repo" src="https://github-contributor-stats.vercel.app/api?username=kakigorimochi&limit=5&theme=ayu-mirage&combine_all_yearly_contributions=true" />
+  <img width="56.6%" align="center" alt ="kakigorimochi's Top Contributed Repo" src="https://github-contributor-stats.vercel.app/api?username=kakigorimochi&limit=4&theme=ayu-mirage&combine_all_yearly_contributions=true" />
 </a>
 </p>
 
