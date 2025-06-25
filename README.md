@@ -44,34 +44,34 @@ Here are some ideas to get you started:
 #### Design
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) 
 
-#### Other
+#### Others
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) 
 
 <br />
 
 ## ⛺🙌 GitHub Statistics
 <!--
-![kakigorimochi's Stats](https://github-readme-stats.vercel.app/api?username=kakigorimochi&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=true&custom_title=kakigorimochi's%20GitHub%20Stats&show=prs_merged,prs_merged_percentage) <br />
+![kakigorimochi's Stats](https://github-readme-stats.vercel.app/api?username=kakigorimochi&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=true&custom_title=kakigorimochi's%20GitHub%20Stats&show=prs_merged,prs_merged_percentage&count_private=true&include_all_commits=true) <br />
 ![kakigorimochi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kakigorimochi&theme=ayu-mirage&mode=weekly&hide_border=false&fire=FB8C00&ring=FB8C00) <br />
 ![kakigorimochi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kakigorimochi&theme=ayu-mirage&layout=compact&langs_count=10&show_icons=true&hide_border=false&count_private=true&include_all_commits=true) <br />
 -->
 <p>
-<a href="#">
-  <img height="250" align="center" alt ="kakigorimochi's Stats" src="https://github-readme-stats.vercel.app/api?username=kakigorimochi&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=true&custom_title=kakigorimochi's%20GitHub%20Stats&show=prs_merged,prs_merged_percentage" />
+<a>
+  <img height="250" align="center" alt ="kakigorimochi's Stats" src="https://github-readme-stats.vercel.app/api?username=kakigorimochi&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=true&custom_title=kakigorimochi's%20GitHub%20Stats&show=prs_merged,prs_merged_percentage&count_private=true&include_all_commits=true)" />
 </a>
-<a href="#">
+<a>
   <img height="250" align="center" alt ="kakigorimochi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakigorimochi&theme=ayu-mirage&layout=compact&langs_count=10&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" />
 </a>
 </p>
 
 <p>
-<a href="#">
+<a>
  <img width="56.6%" align="center" alt ="kakigorimochi's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kakigorimochi&theme=ayu-mirage&mode=weekly&hide_border=false&fire=FB8C00&ring=FB8C00" />
 </a>
 </p>
 
-### Top Contributed Repository
-<a style="text-decoration: none" href="#">
+#### Top Contributed Repository
+<a>
   <img width="56.6%" align="center" alt ="kakigorimochi's Top Contributed Repo" src="https://github-contributor-stats.vercel.app/api?username=kakigorimochi&limit=5&theme=ayu-mirage&combine_all_yearly_contributions=true" />
 </a>
 </p>
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
 ## 🤖🪶 Support and Donate
 <p>
-  <a href="https://ko-fi.com/kakigorimochi"> 
+  <a href="https://ko-fi.com/kakigorimochi" target="_blank"> 
     <img height="40" align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="kakigorimochi" />
   </a>
 </p>
