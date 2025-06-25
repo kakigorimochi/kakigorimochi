@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 <br />
 
-## 🪶🤖 Support and Donate
+## 🤖🪶 Support and Donate
 <p>
   <a href="https://ko-fi.com/kakigorimochi"> 
     <img height="40" align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" alt="kakigorimochi" />
