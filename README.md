@@ -67,13 +67,13 @@ Here are some ideas to get you started:
 
 <p>
 <a style="text-decoration: none" href="#">
- <img width="55.5%" align="center" alt ="kakigorimochi's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kakigorimochi&theme=ayu-mirage&mode=weekly&hide_border=false&fire=FB8C00&ring=FB8C00" />
+ <img width="57%" align="center" alt ="kakigorimochi's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kakigorimochi&theme=ayu-mirage&mode=weekly&hide_border=false&fire=FB8C00&ring=FB8C00" />
 </a>
 </p>
 
 ### Top Contributed Repository
 <a style="text-decoration: none" href="#">
-  <img width="55.5%" align="center" alt ="kakigorimochi's Top Contributed Repo" src="https://github-contributor-stats.vercel.app/api?username=kakigorimochi&limit=5&theme=ayu-mirage&combine_all_yearly_contributions=true" />
+  <img width="57%" align="center" alt ="kakigorimochi's Top Contributed Repo" src="https://github-contributor-stats.vercel.app/api?username=kakigorimochi&limit=5&theme=ayu-mirage&combine_all_yearly_contributions=true" />
 </a>
 </p>
 
