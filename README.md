@@ -12,16 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p> 
-  <img src="https://komarev.com/ghpvc/?username=kakigorimochi&label=Profile%20views&style=for-the-badge&abbreviated=true&color=fb8c00" alt="kakigorimochi" /> 
-  <img src="https://img.shields.io/badge/website-futuregadget--apt.ph-%234285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="futuregadget-apt.ph" >
-</p>
-
+  
+![Profile views](https://komarev.com/ghpvc/?username=kakigorimochi&label=Profile%20views&style=for-the-badge&abbreviated=true&color=fb8c00) 
+[![Website](https://img.shields.io/badge/website-futuregadget--apt.ph-%234285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://futuregadget-apt.ph)
 
 
 ## 👀🛰️ Socials
-![Facebook](https://img.shields.io/badge/Facebook-%230866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white) ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white) (Work in progress)
+[![Facebook](https://img.shields.io/badge/Facebook-%230866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/kakigorimochi) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/kakigorimochi_) [![Email](https://img.shields.io/badge/Gmail-%23005FF9.svg?style=for-the-badge&logo=Gmail&logoColor=white)](https://futuregadget-apt.ph/404)
+
+<br />
 
 ## 🐟🐔 Skills
 #### Languages
@@ -57,16 +56,16 @@ Here are some ideas to get you started:
 ![kakigorimochi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kakigorimochi&theme=ayu-mirage&layout=compact&langs_count=10&show_icons=true&hide_border=false&count_private=true&include_all_commits=true) <br />
 -->
 <p>
-<a style="text-decoration: none" href="#">
+<a href="#">
   <img height="250" align="center" alt ="kakigorimochi's Stats" src="https://github-readme-stats.vercel.app/api?username=kakigorimochi&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=true&custom_title=kakigorimochi's%20GitHub%20Stats&show=prs_merged,prs_merged_percentage" />
 </a>
-<a style="text-decoration: none" href="#">
+<a href="#">
   <img height="250" align="center" alt ="kakigorimochi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakigorimochi&theme=ayu-mirage&layout=compact&langs_count=10&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" />
 </a>
 </p>
 
 <p>
-<a style="text-decoration: none" href="#">
+<a href="#">
  <img width="56.6%" align="center" alt ="kakigorimochi's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kakigorimochi&theme=ayu-mirage&mode=weekly&hide_border=false&fire=FB8C00&ring=FB8C00" />
 </a>
 </p>
