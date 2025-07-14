@@ -12,16 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  
-![Profile views](https://komarev.com/ghpvc/?username=kakigorimochi&label=Profile%20views&style=for-the-badge&abbreviated=true&color=fb8c00) 
-[![Website](https://img.shields.io/badge/website-futuregadget--apt.ph-%234285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://futuregadget-apt.ph)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](https://futuregadget-apt.ph/404)
 
+[![Website](https://img.shields.io/badge/website-futuregadget--apt.ph-%234285F4.svg?style=badge&logoColor=white)](https://futuregadget-apt.ph)
+[![Email](https://img.shields.io/badge/Email-hello@futuregadget--apt.ph-%23EA4335.svg?style=badge&logoColor=white)](mailto:hello@futuregadget-apt.ph)
+<br />
+![Profile views](https://komarev.com/ghpvc/?username=kakigorimochi&label=Profile%20views&style=for-the-badge&abbreviated=true&color=fb8c00) 
+
+<!--
 ## 👀🛰️ Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%230866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/kakigorimochi) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/kakigorimochi_)
 
 <br />
-
+-->
 ## 🐟🐔 Skills
 #### Languages
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
@@ -40,34 +42,35 @@ Here are some ideas to get you started:
 
 #### CI / CD VCS
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
-
+<!--
 #### Design
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) 
 
 #### Others
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) 
-
+-->
 <br />
+
 
 ## ⛺🙌 GitHub Statistics
 <p>
 <a>
-  <img height="250" align="center" alt ="kakigorimochi's Stats" src="https://github-readme-stats.vercel.app/api?username=kakigorimochi&theme=ayu-mirage&show_icons=true&hide_border=false&custom_title=kakigorimochi's%20GitHub%20Stats&include_all_commits=true&show=prs_merged,prs_merged_percentage" />
+  <img align="center" alt ="kakigorimochi's Stats" src="https://github-readme-stats.vercel.app/api?username=kakigorimochi&theme=ayu-mirage&show_icons=true&hide_border=false&custom_title=kakigorimochi's%20GitHub%20Stats&include_all_commits=true&show=prs_merged,prs_merged_percentage" />
 </a>
 <a>
-  <img height="250" align="center" alt ="kakigorimochi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakigorimochi&theme=ayu-mirage&layout=compact&langs_count=10&show_icons=true&hide_border=false&include_all_commits=true" />
+  <img width="33.8%" align="center" alt ="kakigorimochi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakigorimochi&theme=ayu-mirage&layout=compact&langs_count=10&show_icons=true&hide_border=false&include_all_commits=true" />
 </a>
 </p>
 
 <p>
 <a>
- <img width="56.6%" align="center" alt ="kakigorimochi's Streak" src="https://nirzak-streak-stats.vercel.app/?user=kakigorimochi&theme=ayu-mirage&mode=weekly&hide_border=false&fire=FB8C00&ring=FB8C00" />
+ <img width="46.1%" align="center" alt ="kakigorimochi's Streak" src="https://nirzak-streak-stats.vercel.app/?user=kakigorimochi&theme=ayu-mirage&mode=weekly&hide_border=false&fire=FB8C00&ring=FB8C00" />
 </a>
 </p>
 
 #### Top Contributed Repository
 <a>
-  <img width="56.6%" align="center" alt ="kakigorimochi's Top Contributed Repo" src="https://github-contributor-stats.vercel.app/api?username=kakigorimochi&limit=4&theme=ayu-mirage&combine_all_yearly_contributions=true" />
+  <img width="46.1%" align="center" alt ="kakigorimochi's Top Contributed Repo" src="https://github-contributor-stats.vercel.app/api?username=kakigorimochi&limit=4&theme=ayu-mirage&combine_all_yearly_contributions=true" />
 </a>
 </p>
 
