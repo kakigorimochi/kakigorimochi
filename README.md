@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![Profile views](https://komarev.com/ghpvc/?username=kakigorimochi&label=Profile%20views&style=for-the-badge&abbreviated=true&color=fb8c00) 
 <br />
 [![Website](https://img.shields.io/badge/website-futuregadget--apt.ph-%234285F4.svg?style=badge&logoColor=white)](https://futuregadget-apt.ph)
-[![Email](https://img.shields.io/badge/Email-hello@futuregadget--apt.ph-%23EA4335.svg?style=badge&logoColor=white)](mailto:hello@futuregadget-apt.ph)
+[![Email](https://img.shields.io/badge/email-hello@futuregadget--apt.ph-%23EA4335.svg?style=badge&logoColor=white)](mailto:hello@futuregadget-apt.ph)
 
 <!--
 ## 👀🛰️ Socials
