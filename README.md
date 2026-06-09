@@ -42,22 +42,22 @@ Here are some ideas to get you started:
 ## ⛺🙌 GitHub Statistics
 <p>
 <a>
-  <img width="46.1%" align="center" alt ="kakigorimochi's Stats" src="https://github-readme-stats.vercel.app/api?username=kakigorimochi&theme=ayu-mirage&show_icons=true&hide_border=false&custom_title=kakigorimochi's%20GitHub%20Stats&include_all_commits=true&show=prs_merged,prs_merged_percentage" />
+  <img width="46.1%" align="center" alt ="kakigorimochi's Stats" src="https://github-stats-extended.vercel.app/api?username=kakigorimochi&theme=ayu-mirage&show_icons=true&hide_border=false&custom_title=kakigorimochi's%20GitHub%20Stats&include_all_commits=true&show=prs_merged,prs_merged_percentage" />
 </a>
 <a>
-  <img width="33.8%" align="center" alt ="kakigorimochi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakigorimochi&theme=ayu-mirage&layout=compact&langs_count=10&show_icons=true&hide_border=false&include_all_commits=true" />
+  <img width="33.8%" align="center" alt ="kakigorimochi's Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kakigorimochi&theme=ayu-mirage&layout=compact&langs_count=10&show_icons=true&hide_border=false&include_all_commits=true" />
 </a>
 </p>
 
 <p>
 <a>
- <img width="46.1%" align="center" alt ="kakigorimochi's Streak" src="https://nirzak-streak-stats.vercel.app/?user=kakigorimochi&theme=ayu-mirage&mode=weekly&hide_border=false&fire=FB8C00&ring=FB8C00" />
+ <img width="46.1%" align="center" alt ="kakigorimochi's Streak" src="https://nirzak-streak-stats.onrender.com/?user=kakigorimochi&theme=ayu-mirage&mode=weekly&hide_border=false&fire=FB8C00&ring=FB8C00" />
 </a>
 </p>
 
 #### Top Contributed Repository
 <a>
-  <img width="46.1%" align="center" alt ="kakigorimochi's Top Contributed Repo" src="https://github-contributor-stats.vercel.app/api?username=kakigorimochi&limit=4&theme=ayu-mirage&combine_all_yearly_contributions=true" />
+  <img width="46.1%" align="center" alt ="kakigorimochi's Top Contributed Repo" src="https://github-contribution-card.vercel.app/api?username=kakigorimochi&limit=4&theme=ayu-mirage&combine_all_yearly_contributions=true" />
 </a>
 </p>
 
